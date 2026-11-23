@@ -18,3 +18,7 @@ python3 Fig2.py
 ```
 
 Each script writes its PDF to the current directory. Parameter values are listed in each script's docstring and in the figure captions of the paper.
+
+## License
+
+MIT License; see [LICENSE](LICENSE).
